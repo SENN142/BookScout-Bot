@@ -133,5 +133,5 @@ def show_log(message):
 
 
 if __name__ == '__main__':
-    print("🚀 Бот запущен напрямую на сервере PythonAnywhere...")
+    print("🚀 Бот запущен")
     bot.infinity_polling()
