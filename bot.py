@@ -4,7 +4,7 @@ import random
 import telebot
 import requests
 from bs4 import BeautifulSoup
-from telebot import apihelper  # <-- Добавили этот импорт
+from telebot import apihelper  # 
 
 
 TOKEN = '8856605303:AAHypRaCz2c23v9ORFcLB_6U7usdTFxVqsE'
